@@ -1,2 +1,2 @@
 # signal.ist
-Researcher who studies signal processing. An Academic platform.
+A researcher who studies signal processing. An academic platform.
